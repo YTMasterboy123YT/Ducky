@@ -122,7 +122,7 @@ local Library = {
 	Unloaded = false,
 	Loaded = true,
 
-	Theme = "Dark",
+	Theme = "ForestDark",
 	DialogOpen = false,
 	UseAcrylic = false,
 	Acrylic = false,
