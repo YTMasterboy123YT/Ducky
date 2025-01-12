@@ -8,7 +8,7 @@
     "bundle": "pnpm run rojo && lune build"
   },
   "keywords": [],
-  "author": "Actual Master Oogway",
+  "author": "Masterboy123",
   "license": "MIT",
   "devDependencies": {
     "mkdirp": "^3.0.1"
