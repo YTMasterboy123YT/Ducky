@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau"))()
+local Library = loadstring(game:HttpGetAsync("https://github.com/YTMasterboy123YT/Ducky/releases/download/0.1/Ducky.luau"))()
 local SaveManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/YTMasterboy123YT/Ducky/refs/heads/main/Addons/SaveManager.luau"))()
 local InterfaceManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/YTMasterboy123YT/Ducky/refs/heads/main/Addons/InterfaceManager.luau"))()
  
